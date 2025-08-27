@@ -1,0 +1,145 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/*logo*/
+
+.logo {
+    border-radius: 50%;
+    height: 50px;
+    align-items: center;
+    margin-right: 10px;
+}
+
+/* Navbar container */
+nav {
+    display: flex;
+    position: fixed;
+    background: #c32258;
+    background: radial-gradient(circle, rgba(195, 34, 88, 1) 0%, rgba(105, 110, 145, 1) 0%);
+
+
+    padding: 10px 20px;
+    align-items: center;
+    border-radius: 60px;
+    margin: 10px 20px;
+
+}
+
+
+.brand {
+    color: aliceblue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 1.3em;
+}
+
+/* Navbar list */
+nav ul {
+    list-style: none;
+    display: flex;
+
+    justify-content: end;
+    margin-left: 570px;
+
+
+}
+
+
+nav ul li {
+    margin: 0 12px;
+}
+
+
+nav ul li a {
+
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+    transition: color 0.3s ease;
+}
+
+/* Hover effect */
+nav ul li a:hover {
+    color: #f0ac46;
+
+}
+
+
+/* Page content styling */
+.content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+    text-align: center;
+    background: linear-gradient(135deg, #ff5722, #26c6da);
+
+
+    color: #333;
+    padding-top: 40px;
+    height: 100vh;
+}
+
+.content h1 {
+    font-size: 48px;
+    margin-bottom: 10px;
+    color: rgb(236, 237, 237);
+}
+
+.content p {
+    font-size: 16px;
+    color: #e4dfdf;
+
+}
+
+.explore {
+    display: inline-block;
+    padding: 18px 35px;
+    border-radius: 20px;
+    color: #ffffff;
+    background: rgba(255, 255, 255, 0.2);
+    margin-top: 30px;
+    border: none;
+    cursor: pointer;
+    transition: 0.9s;
+}
+
+.explore:hover {
+    transform: scale(1.1);
+    /*size increases*/
+    background: rgba(255, 255, 255, 0.3);
+    /*slighly glows*/
+}
+
+.about {
+    padding: 150px 0px;
+    background-color: #e7e3e3;
+    text-align: center;
+    align-items: center;
+}
+
+.aboutus {
+    font-size: 40px;
+
+    color: rgb(136, 13, 136);
+    font-weight: 600;
+}
+
+.info {
+    padding-top: 40px;
+    font-size: 20px;
+    color: #757070;
+}
+
+.footer {
+
+    text-align: center;
+    background: #c32258;
+    background: radial-gradient(circle, rgba(195, 34, 88, 1) 0%, rgba(105, 110, 145, 1) 0%);
+    padding: 50px 0px;
+    font-size: 20px;
+    color: rgb(236, 237, 237);
+}
