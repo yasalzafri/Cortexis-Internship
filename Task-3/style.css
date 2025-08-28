@@ -1,0 +1,52 @@
+.main {
+    margin: 200px 0px 0px 0px;
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.sub {
+    text-align: center;
+}
+
+.light-theme {
+    background: #edd8e2;
+    background: radial-gradient(circle, rgba(237, 216, 226, 1) 0%, rgba(148, 187, 233, 1) 100%);
+    color: rgb(38, 78, 138);
+    text-align: center;
+}
+
+.dark-theme {
+    background: #020024;
+    background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(9, 9, 121, 1) 43%, rgba(0, 212, 255, 1) 100%);
+    color: rgb(215, 215, 215);
+    text-align: center;
+}
+
+#lightbtn {
+    display: inline-block;
+    padding: 14px 12px;
+    border-radius: 20px;
+    border: none;
+    color: rgb(58, 57, 57);
+    transition: 0.4s;
+    font-weight: 500;
+    cursor: pointer;
+}
+
+
+#darkbtn {
+    display: inline-block;
+    padding: 14px 12px;
+    border-radius: 20px;
+    border: none;
+    color: rgb(58, 57, 57);
+    transition: 0.4s;
+    font-weight: 500;
+    cursor: pointer;
+}
+
+#lightbtn:hover,
+#darkbtn:hover {
+    transform: scale(1.1);
+}
