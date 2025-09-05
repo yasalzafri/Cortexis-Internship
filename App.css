@@ -1,0 +1,21 @@
+.background {
+  background: linear-gradient(180deg, #f9fbff 0%, #e6f0ff 100%);
+
+  height: 100vh;
+  margin-top: 0px;
+}
+
+.title {
+  text-align: center;
+  font-size: 17px;
+  font-family: Verdana, Tahoma, sans-serif;
+  font-weight: 500;
+  color: #16193e;
+  margin: 0px;
+  padding: 20px;
+
+}
+
+.subtitle {
+  font-weight: 100;
+}

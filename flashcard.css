@@ -1,0 +1,50 @@
+/* Card styling */
+.flashcard {
+
+    background: rgb(255, 253, 253);
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    padding: 60px 40px;
+    max-width: 400px;
+    text-align: center;
+    margin: auto;
+    font-family: Arial, sans-serif;
+}
+
+/* Question text */
+.question {
+    font-size: 18px;
+    font-weight: 600;
+    margin-top: 0px;
+    margin-bottom: 20px;
+    color: #00295f;
+}
+
+/* Button */
+.toggle-btn {
+    background-color: #1a4fe4;
+    /* Bright blue */
+    color: #fff;
+    font-size: 16px;
+    font-weight: 500;
+    border: none;
+    border-radius: 10px;
+    padding: 12px 24px;
+    cursor: pointer;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: 0.3s ease;
+}
+
+/* Hover effect */
+.toggle-btn:hover {
+    background-color: #0778e2;
+}
+
+/*answer*/
+.answer {
+    color: #00295f;
+}
