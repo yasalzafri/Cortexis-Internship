@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.22085edf.css",
+    "main.js": "/static/js/main.c4490a4d.js",
+    "static/js/453.9cc558c4.chunk.js": "/static/js/453.9cc558c4.chunk.js",
+    "static/media/mat-kilkeary-y3AuJts5x1Y-unsplash.jpg": "/static/media/mat-kilkeary-y3AuJts5x1Y-unsplash.6807d759120387d4b90d.jpg",
+    "static/media/kouji-tsuru-oVv-MAZHFDQ-unsplash.jpg": "/static/media/kouji-tsuru-oVv-MAZHFDQ-unsplash.e06d3bed450301340942.jpg",
+    "static/media/olav-tvedt--oVaYMgBMbs-unsplash.jpg": "/static/media/olav-tvedt--oVaYMgBMbs-unsplash.e0fed5cb67269ade5a49.jpg",
+    "static/media/peter-thomas-yCVP-vBGdAc-unsplash.jpg": "/static/media/peter-thomas-yCVP-vBGdAc-unsplash.0e144dd86802019890f7.jpg",
+    "static/media/quentin-rogeret-k7gG4J4_190-unsplash.jpg": "/static/media/quentin-rogeret-k7gG4J4_190-unsplash.6563dc2ad4b875108c75.jpg",
+    "static/media/photo-1755541608112-096a8698f7e6.avif": "/static/media/photo-1755541608112-096a8698f7e6.01932cc69472672de323.avif",
+    "static/media/photo-1756677027854-4e2ba420a2a3.avif": "/static/media/photo-1756677027854-4e2ba420a2a3.0e5a1cfa05289c1cf984.avif",
+    "static/media/premium_photo-1756175546748-73b7a523cd66.avif": "/static/media/premium_photo-1756175546748-73b7a523cd66.28330fe58e467719da91.avif",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.22085edf.css.map": "/static/css/main.22085edf.css.map",
+    "main.c4490a4d.js.map": "/static/js/main.c4490a4d.js.map",
+    "453.9cc558c4.chunk.js.map": "/static/js/453.9cc558c4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22085edf.css",
+    "static/js/main.c4490a4d.js"
+  ]
+}
